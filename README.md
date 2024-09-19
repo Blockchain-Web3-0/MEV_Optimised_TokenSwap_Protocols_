@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ### Project Overview: **MEV Optimized Token Swap Protocol**
 - A decentralized protocol that allows users to swap tokens with optimized transaction ordering to minimize MEV extraction while ensuring security.
@@ -41,3 +42,18 @@
 #### 9. **Community Support and Documentation**
    - Write detailed documentation for the protocol, including usage instructions, the rationale behind MEV mitigation strategies, and security considerations.
    - Set up a community discussion board or GitHub issue tracker to provide support and gather feedback.
+=======
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat ignition deploy ./ignition/modules/Lock.js
+```
+>>>>>>> 009948c (Initial commit)
